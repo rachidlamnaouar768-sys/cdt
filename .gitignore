@@ -1,0 +1,9 @@
+node_modules
+.vercel
+.env
+.env.*
+!.env.example
+# Real member data must NEVER be committed:
+data/
+*.backup.json
+cdt-berrechid-data*.json

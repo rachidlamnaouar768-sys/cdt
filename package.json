@@ -1,0 +1,10 @@
+{
+  "name": "cdt-berrechid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CDT Berrechid union registry — static front-end + Vercel serverless API",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "LOCAL_DEV=1 node dev-server.js"
+  }
+}
