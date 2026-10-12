@@ -1,7 +1,6 @@
 {
   "framework": null,
   "outputDirectory": "public",
-  "functions": { "api/*.js": { "maxDuration": 15 } },
   "headers": [
     { "source": "/(.*)", "headers": [
       { "key": "X-Content-Type-Options", "value": "nosniff" },
